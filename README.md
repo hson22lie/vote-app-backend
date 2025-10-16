@@ -9,14 +9,14 @@
 
 2. **Install MongoDB** - Make sure MongoDB is installed and running on your local machine
 
-2. **Check Port Availability** - Ensure the required port is not being used by other applications
+3. **Check Port Availability** - Ensure the required port is not being used by other applications
 
-3. **Environment Setup** - Copy `.env.example` to `.env` and adjust the values as needed:
+4. **Environment Setup** - Copy `.env.example` to `.env` and adjust the values as needed:
    ```bash
    cp .env.example .env
    ```
 
-4. **Start the Application**:
+5. **Start the Application**:
    ```bash
    node server.js
    ```
