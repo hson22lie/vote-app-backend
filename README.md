@@ -2,7 +2,12 @@
 
 ## How to Run
 
-1. **Install MongoDB** - Make sure MongoDB is installed and running on your local machine
+1. **Install Dependencies** - Install node_modules after cloning the repository:
+   ```bash
+   npm install
+   ```
+
+2. **Install MongoDB** - Make sure MongoDB is installed and running on your local machine
 
 2. **Check Port Availability** - Ensure the required port is not being used by other applications
 
